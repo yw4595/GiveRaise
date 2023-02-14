@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\bin\Debug\GiveRaiseProgram.exe.config
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\bin\Debug\GiveRaiseProgram.exe
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\bin\Debug\GiveRaiseProgram.pdb
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\obj\Debug\GiveRaiseProgram.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\obj\Debug\GiveRaiseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\obj\Debug\GiveRaiseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\obj\Debug\GiveRaiseProgram.exe
+C:\Users\Wiz\Desktop\IGME 201\GiveRaiseProgram\obj\Debug\GiveRaiseProgram.pdb
